@@ -6,6 +6,7 @@ CMakeCache.txt
 compile_install.cmake
 compile_commands.json
 Makefile
+.cache/
 # Compiled Object files
 *.slo
 *.lo
